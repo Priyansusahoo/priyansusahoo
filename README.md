@@ -9,7 +9,3 @@
     • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
     • 🥅 2021-22 Goals:  💻 Becoming a FULL STACK Developer
-
-      👉Linkedin profile :- https://www.linkedin.com/in/priyansu-sahoo-9477a4193/
-    
-      👉Email :- priyansusahoo1234@gmail.com
