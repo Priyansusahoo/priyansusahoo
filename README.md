@@ -1,11 +1,11 @@
 ### Hi there, I'm Priyansu 👋
 
-    • 🍹 I’m currently learning everything 😆
+• 🍹 I’m currently learning everything 😆
     
-    • 🌱 Regarding studies; learning JAVA, Android App-Development, HTML, CSS, JavaScript from Udemy, YouTube, GitHub repositories and various resources
+• 🌱 Regarding studies; learning JAVA, Android App-Development, HTML, CSS, JavaScript from Udemy, YouTube, GitHub repositories and various resources
     
-    • 🔥👨‍💻 Also learning about various framework, Database, development Tools 
+• 🔥👨‍💻 Also learning about various framework, Database, development Tools 
 
-    • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
+• 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
-    • 🥅 2021-22 Goals:  💻 Becoming a FULL STACK Developer
+• 🥅 2021-22 Goals:  💻 Becoming a FULL STACK Developer
