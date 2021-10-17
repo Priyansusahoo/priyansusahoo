@@ -4,7 +4,7 @@
     
 • 🌱 Regarding studies; learning JAVA, Android App-Development, WebSite development from Udemy, YouTube, GitHub repositories and various resources
     
-• 🔥👨‍💻 Also learning about various framework, Database, development Tools 
+• 🔥👨‍💻 Also learning about various framework, Databases, development Tools 
 
 • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
