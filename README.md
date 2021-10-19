@@ -8,4 +8,4 @@
 
 • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
-• 🥅 2021-22 Goals:  💻 Becoming a FULL STACK Developer
+• 🥅 2021-22 Goals:  💻 FULL STACK Developer.
