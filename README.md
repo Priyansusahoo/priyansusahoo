@@ -2,7 +2,7 @@
 
 • 🍹 I’m currently learning everything 😆
     
-• 🌱 Regarding studies; learning JAVA, Android App-Development, WebSite development from Udemy, YouTube, GitHub repositories and various resources
+• 🌱 Regarding studies; learning JAVA, WebSite development from Udemy, YouTube, GitHub repositories and various resources
     
 • 🔥👨‍💻 Also learning about various framework, Databases, development Tools 
 
