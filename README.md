@@ -2,9 +2,9 @@
 
 • 🍹 I’m currently learning everything 😆
     
-• 🌱 Regarding studies; learning JAVA, PYTHON, WebSite development from Udemy, YouTube, Documentations and various resources
+• 🌱 Regarding studies; learning JAVA, DSA, WebSite development from Udemy, YouTube, Documentations and various resources
     
-• 🔥👨‍💻 Also learning about various java & python framework, Databases, development Tools 
+• 🔥👨‍💻 Also learning about various tools in DevOps(Docker). 
 
 • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
