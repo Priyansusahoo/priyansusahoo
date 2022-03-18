@@ -4,7 +4,7 @@
     
 • 🌱 Regarding studies; learning JAVA, DSA, WebSite development from Udemy, YouTube, Documentations and various resources
     
-• 🔥👨‍💻 Also learning about; one of many tools in DevOps(Docker). 
+• 🔥👨‍💻 Also learning; one of many tools in DevOps(Docker). 
 
 • 🏫 Currently a Undergraduate Computer Science & IT student, will Graduate in 2023
 
