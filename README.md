@@ -1,5 +1,4 @@
-### Hi there, I'm Priyansu ![image](https://user-images.githubusercontent.com/78722016/175459377-33b84c2a-e7dd-4da2-9a7a-bc5ae897f314.png)
-
+### Hi there, I'm Priyansu 👋
 
 • 🍹 I’m currently learning everything 😆
     
