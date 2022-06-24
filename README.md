@@ -1,4 +1,4 @@
-### Hi there, I'm Priyansu 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Priyansu!
 
 • 🍹 I’m currently learning everything 😆
     
