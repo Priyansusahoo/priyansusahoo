@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 👨‍💻 🚀</div>  
+### <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
   
 
-- 🔭 I’m currently learning everything 😆  
+- 🔭 I’m currently learning everything ;)  
   
 
 - 🌱 I’m currently learning Java, DSA & working on few projects  
