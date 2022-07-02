@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 90%" />
+<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 45%" />
 </div> 
 <br>
 <div align = "center">
