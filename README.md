@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 95%" />
 </div>  
   
 
-### <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
+## <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
   
 
 - 🔭 I’m currently learning everything ;)  
@@ -59,12 +59,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyansusahoo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
