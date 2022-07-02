@@ -1,21 +1,25 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 95%" />
-</div>  
+<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 90%" />
+</div> 
+<br>
+<div align = "center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29" />
+</div>
   
 
-## <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
+### <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
   
 
-- 🔭 I’m currently learning everything ;)  
+          - 🔭 I’m currently learning everything ;)  
   
 
-- 🌱 I’m currently learning Java, DSA & working on few projects  
+          - 🌱 I’m currently learning Java, DSA & working on few projects  
   
 
-- ⚡ Also setting started with Linux.  
+          - ⚡ Also setting started with Linux.  
   
 
-- 🥅 2021-22 Goals:  💻 Know More about DevOps.  
+          - 🥅 2021-22 Goals:  💻 Know More about DevOps.  
   
 
 <br/>  
