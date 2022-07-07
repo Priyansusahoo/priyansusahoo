@@ -1,4 +1,4 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀
   
   
 
