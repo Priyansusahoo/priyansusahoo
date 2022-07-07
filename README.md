@@ -1,13 +1,5 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/jewelmullick/DESIGNS/main/hellobyjewel.jpg" align="center" style="width: 45%" />
-</div> 
-<br>
-<div align = "center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29" />
-</div>
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀
   
-
-### <div align="center">I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀</div>  
   
 
           - 🔭 I’m currently learning everything ;)  
