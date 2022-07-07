@@ -2,13 +2,13 @@
   
   
 
-          - 🔭 I’m currently learning everything ;)  
+          - 🔭 I’m currently learning everything 😄  
   
 
-          - 🌱 I’m currently learning Java, DSA & working on few projects  
+          - 🌱 I’m currently learning Java, DSA & working on few projects,  
   
 
-          - ⚡ Also setting started with Linux.  
+          - ⚡ Also setting started with Linux,  
   
 
           - 🥅 2021-22 Goals:  💻 Know More about DevOps.  
