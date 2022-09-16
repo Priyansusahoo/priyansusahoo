@@ -8,7 +8,7 @@
           - 🌱 I’m currently learning Java, DSA & working on few projects,  
   
 
-          - ⚡ Also setting started with Linux,  
+          - ⚡ Also setting started with Linux, Linux-Scripting,  
   
 
           - 🥅 2021-22 Goals:  💻 Know More about DevOps.  
