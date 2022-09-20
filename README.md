@@ -1,17 +1,4 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://www.linkedin.com/in/priyansu1/) currently a Computer Science & IT Undergraduate who will Graduate in 2023 🚀
-  
-  
-
-          - 🔭 I’m currently learning everything 😄  
-  
-
-          - 🌱 I’m currently learning Java, DSA & working on few projects,  
-  
-
-          - ⚡ Also setting started with Linux, Linux-Scripting,  
-  
-
-          - 🥅 2021-22 Goals:  💻 Know More about DevOps.  
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://twitter.com/Priyansu2000) currently a Computer Science and IT Undergraduate who will graduate in 2023 🚀
   
 
 <br/>  
