@@ -2,8 +2,12 @@
   
 
 <br/>  
+<div align="center">
 
+      👉 Learning DSA and DevOps
+      👉 Enthusiastic about DevOps and Open Source
 
+</div>
   
 
 
