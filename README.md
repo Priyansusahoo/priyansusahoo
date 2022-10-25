@@ -4,8 +4,11 @@
 <br/>  
 <div align="center">
 
-      👉 Learning DSA and DevOps
-      👉 Enthusiastic about DevOps and Open Source
+👉 Learning DSA and DevOps<br/> 
+👉 Enthusiastic about DevOps and Open Source<br/> 
+👉 Learn In Public: <br/> 
+#100DaysOfDevOps #100DayOfCode<br/> 
+👉 Connect with me on Twitter ⬇️ <br/> 
 
 </div>
   
