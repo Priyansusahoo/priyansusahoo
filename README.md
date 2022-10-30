@@ -1,17 +1,20 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://twitter.com/Priyansu2000) currently a Computer Science and IT Undergraduate who will graduate in 2023 🚀
-  
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27"> I'm [Priyansu](https://twitter.com/Priyansu2000) currently a Computer Science and IT Undergraduate who will graduate in 2023🚀
+<br/>
+<details>
+<summary>Learning DSA and DevOps 👨‍💻
+</b></details>
+<!-- ----------------------- -->
+<details>
+<summary>Enthusiastic about DevOps ♾️ and Open-Source
+</b></details>
+<!-- ----------------------- -->
+<details>
+<summary>Learn In Public on Twitter:
 
-<br/>  
-<div>
-
-👉 Learning DSA and DevOps<br/> 
-👉 Enthusiastic about DevOps and Open Source<br/> 
-👉 Learn In Public: <br/> 
-○ #100DaysOfDevOps<br/>○ #100DayOfCode<br/>
-</div>
-  
-
-
+  * #100DaysOfDevOps
+  * #100DayOfCode
+</b></details>
+<!-- ---------------------------------------------------------------------- -->
 ## Connect with me  
 <div align="center">
 
