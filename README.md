@@ -38,13 +38,13 @@
 ## Rapidfire  
 <table><tr>
 
-- 🌱 I’m currently learning DSA, Linux🐧, DevOps ♾️  
+- 🌱 I’m currently learning DSA in JAVA, LINUX 🐧, DevOps ♾️  
   
 
 - 🔭 Enthusiastic about DevOps and Open-Source.  
   
 
-- 🆕 I’m also learning Linux-Scripting 🐧 ⌨️  
+- 🆕 I’m also learning Python, Linux-Scripting 🐧 ⌨️  
   
 
 - Learn In Public on Twitter:
