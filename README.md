@@ -19,9 +19,9 @@
 <!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
-
+<!-- 
 <a href="https://stackoverflow.com/users/15277967" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /> -->
 </a>
 
   
@@ -83,7 +83,10 @@
 ## Github Stats  
 <table>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Priyansusahoo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-</table> 
+</table> <br>
+
+## LeetCode Stats
+
 <table>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansusahoo&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://leetcard.jacoblin.cool/priyansusahoo1?ext=activity" align="center" /></div>
 </table>
