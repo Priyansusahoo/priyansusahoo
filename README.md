@@ -34,5 +34,5 @@
 ## LeetCode Stats
 
 <table>
-<div align="center"><img src="https://leetcard.jacoblin.cool/priyansusahoo1?ext=activity" align="center" /></div>
+<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?ext=activity" align="center" width="390"/></div>
 </table>
