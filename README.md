@@ -7,12 +7,12 @@
 <a href="https://linkedin.com/in/priyansu1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@priyansusahoo" target="_blank">
+<!-- <a href="https://www.youtube.com/@priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/priyansu_2002" target="_blank">
+</a> -->
+<!-- <a href="https://instagram.com/priyansu_2002" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://medium.com/@priyansusahoo1" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
