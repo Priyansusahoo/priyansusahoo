@@ -25,7 +25,7 @@
 </a>
 
   
-### Currently a Computer Science and IT Undergraduate who will graduate in 2023🚀  
+### Currently a Computer Science and IT Undergraduate who will graduate in 2023 🚀  
   
 
 <br/>  
