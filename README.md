@@ -1,6 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://twitter.com/Priyansu2000)!  
-  
 
+### • Currently a Computer Science and IT Undergraduate who will graduate in 2023.
+  
+### Connect with me 💬
 <a href="https://twitter.com/Priyansu2000" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -25,14 +27,12 @@
 </a>
 
   
-### Currently a Computer Science and IT Undergraduate who will graduate in 2023 🚀  
-  
+
 
 <br/>  
 
-
-## LeetCode Stats
+### LeetCode Stats
 
 <table>
-<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?ext=activity" align="center" width="390"/></div>
+<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?theme=dark" align="center" width="390"/></div>
 </table>
