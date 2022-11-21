@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm [Priyansu](https://twitter.com/Priyansu2000)!  
 
-### • Currently a Computer Science and IT Undergraduate who will graduate in 2023.
+### *Currently a Computer Science and IT Undergraduate who will graduate in 2023.*
   
 ### Connect with me 💬
 <a href="https://twitter.com/Priyansu2000" target="_blank">
