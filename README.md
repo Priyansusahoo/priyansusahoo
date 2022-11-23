@@ -1,7 +1,6 @@
 ![techstack](https://user-images.githubusercontent.com/78722016/203534911-82992a46-38be-4318-8000-33ac0b4f7e82.png)
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm Priyansu</h1>
 <h3 align="center">Currently a Computer Science and IT Undergraduate who will graduate in 2023.</h3>
-<h3 align="center">A Passionate and Aspiring DevOps Engineer</h3>
 <br></br>
 
 <h3 align="center">
