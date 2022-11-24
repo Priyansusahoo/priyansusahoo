@@ -5,7 +5,7 @@
 
 <h3 align="center">
 <table>
-<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?theme=dark" align="center" width="390"/></div>
+<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?theme=dark" align="center" width="480"/></div>
 </table>
 </h3>
 
