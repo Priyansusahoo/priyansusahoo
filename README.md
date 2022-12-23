@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm Priyansu</h1>
 <h3 align="center">Currently a Computer Science and IT Undergraduate who will graduate in 2023.</h3>
 <h3 align="center">
-<table>
+<!-- <table>
 <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/></div>
-</table>
+</table> -->
   
 </h3>
 <table>
