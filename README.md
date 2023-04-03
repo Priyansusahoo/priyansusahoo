@@ -7,6 +7,16 @@
 </table> -->
   
 </h3>
+
+<table>
+  <div align='center'>
+
+  #### :books: Recent Blog Posts
+  <!-- BLOGPOSTS:START -->
+  <!-- BLOGPOSTS:END -->
+  </div>
+</table>
+
 <table>
   <div align='center'>
 
