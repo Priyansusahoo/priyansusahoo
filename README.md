@@ -9,7 +9,7 @@
 </h3>
 
 <table>
-  <div align='center'>
+  <div>
 
   #### :books: Recent Blog Posts
   <!-- BLOGPOSTS:START -->
