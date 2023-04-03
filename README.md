@@ -20,7 +20,7 @@
 <a href="https://www.youtube.com/@priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@Priyansu1">
+<a href="https://priyansu1.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
 </a>
 <!-- <a href="https://instagram.com/priyansu_2002" target="_blank">
