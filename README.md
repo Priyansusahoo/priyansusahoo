@@ -7,11 +7,11 @@
 
   #### :books: Recent Blog Posts
   <!-- BLOGPOSTS:START -->
- - 🚀 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)
+ - 🚀 [Introduction To Agile](https://priyansu1.hashnode.dev/introduction-to-agile)
+ - 💯 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)
  - 💯 [Fedora Linux SetUp](https://priyansu1.hashnode.dev/fedora-linux-setup)
  - 💯 [Load Balancing in 5 Min.](https://priyansu1.hashnode.dev/load-balancing-in-5-min)
- - 💯 [Horizontal &amp; Vertical Scaling in 5min](https://priyansu1.hashnode.dev/horizontal-vertical-scaling-in-5min)
- - 💫 [MicroServices in 10 min](https://priyansu1.hashnode.dev/microservices-in-10-min)<!-- BLOGPOSTS:END -->
+ - 💫 [Horizontal &amp; Vertical Scaling in 5min](https://priyansu1.hashnode.dev/horizontal-vertical-scaling-in-5min)<!-- BLOGPOSTS:END -->
   </div>
 </table>
 
