@@ -1,6 +1,6 @@
 <!-- ![techstack](https://user-images.githubusercontent.com/78722016/203534911-82992a46-38be-4318-8000-33ac0b4f7e82.png) -->
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27">, I'm Priyansu</h1>
-<h3>Computer Science and IT Undergraduate (2023 pass out).</h3>
+<h3>B. Tech in Computer Science and IT Graduate (2023 pass out).</h3>
 
 
 
