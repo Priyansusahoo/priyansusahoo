@@ -1,9 +1,5 @@
-<!-- ![techstack](https://user-images.githubusercontent.com/78722016/203534911-82992a46-38be-4318-8000-33ac0b4f7e82.png) -->
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I'm Priyansu</h1>
 <h3>B. Tech in Computer Science and IT Graduate (2023 pass out).</h3>
-
-
-
 <table>
   <div>
 
@@ -14,6 +10,7 @@
  - 💯 [Fedora Linux SetUp](https://priyansu1.hashnode.dev/fedora-linux-setup)
  - 💯 [Load Balancing in 5 Min.](https://priyansu1.hashnode.dev/load-balancing-in-5-min)
  - 💫 [Horizontal &amp; Vertical Scaling in 5min](https://priyansu1.hashnode.dev/horizontal-vertical-scaling-in-5min)<!-- BLOGPOSTS:END -->
+  
   </div>
 </table>
 
@@ -25,11 +22,19 @@
 
 <table>
   <div>
+
+<table>
+  <div>
     
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh)
+    
+  </div>
+</table>
+
 ### Connect with me 💬
-<a href="https://twitter.com/Priyansu2000" target="_blank">
+<!--<a href="https://twitter.com/Priyansu2000" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://linkedin.com/in/priyansu1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -63,6 +68,7 @@
 </div>
   
   <br>
+
   
 <div>
   <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt=""/> 
