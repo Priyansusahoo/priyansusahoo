@@ -12,29 +12,19 @@
  - 💫 [Horizontal &amp; Vertical Scaling in 5min](https://priyansu1.hashnode.dev/horizontal-vertical-scaling-in-5min)<!-- BLOGPOSTS:END -->
   
   </div>
-</table>
 
-<!-- <h3 align="">
-<table>
-<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/></div>
-</table>
-</h3> -->
-
-<table>
   <div>
 
-<table>
-  <div>
-    
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh)
-    
-  </div>
-</table>
+
+| RoadMap.sh                                                   | LeetCode                                           |
+| ------------------------------------------------------ | --------------------------------------------- |
+| [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh) | <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/>
+</div>
 
 ### Connect with me 💬
-<!--<a href="https://twitter.com/Priyansu2000" target="_blank">
+<a href="https://twitter.com/Priyansu2000" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <a href="https://linkedin.com/in/priyansu1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -44,34 +34,26 @@
 <a href="https://www.youtube.com/@priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-
-<!-- <a href="https://instagram.com/priyansu_2002" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> -->
-<!-- <a href="https://medium.com/@priyansusahoo1" target="_blank">
+<a href="https://medium.com/@priyansusahoo1" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> -->
-
+</a>
 <a href="https://leetcode.com/priyansusahoo1/">
 <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
 </a>
 <!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
-<!-- 
 <a href="https://stackoverflow.com/users/15277967" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /> -->
-<!-- </a> -->
-<a href="https://www.instagram.com/priyansu.2000/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-</div>
-  
-  <br>
-
-  
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt=""/> 
+<!-- <a href="https://www.instagram.com/priyansu.2000/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a> -->
 </div>
 </table>
-
+<br></br>
+<table>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="180"/> 
+</div>
+</table>
