@@ -15,18 +15,17 @@
 
   <div>
 
-
 | RoadMap.sh                                                   | LeetCode                                           |
 | ------------------------------------------------------ | --------------------------------------------- |
 | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh) | <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/>
 </div>
 
 ### Connect with me 💬
-<a href="https://twitter.com/Priyansu2000" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/priyansu1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Priyansu2000" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://priyansu1.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
