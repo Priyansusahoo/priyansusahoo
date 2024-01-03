@@ -18,6 +18,8 @@
 | RoadMap.sh                                                   | LeetCode                                           |
 | ------------------------------------------------------ | --------------------------------------------- |
 | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh) | <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/>
+
+
 </div>
 
 ### Connect with me 💬
@@ -53,6 +55,6 @@
 <br></br>
 <table>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="180"/> 
+  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="135"/> 
 </div>
 </table>
