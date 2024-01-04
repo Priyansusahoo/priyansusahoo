@@ -19,7 +19,6 @@
 | ------------------------------------------------------ | --------------------------------------------- |
 | [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/658aa52a54b5771051431f45?variant=dark)](https://roadmap.sh) | <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="420" border-radius= "260px"/>
 
-
 </div>
 
 ### Connect with me 💬
