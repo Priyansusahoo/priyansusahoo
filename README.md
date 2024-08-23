@@ -1,5 +1,5 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I'm Priyansu</h1>
-<h3>B. Tech in Computer Science and IT Graduate (2023 pass out).</h3>
+<!-- <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I'm Priyansu</h1> -->
+<!-- <h3>B. Tech in Computer Science and IT Graduate (2023 pass out).</h3> -->
 <table>
   <div>
 
