@@ -31,21 +31,21 @@
 <a href="https://priyansu1.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
 </a>
-<a href="https://www.youtube.com/@priyansusahoo" target="_blank">
+<!-- <a href="https://www.youtube.com/@priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@priyansusahoo1" target="_blank">
+</a> -->
+<!-- <a href="https://medium.com/@priyansusahoo1" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://leetcode.com/priyansusahoo1/">
 <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
 </a>
 <!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://stackoverflow.com/users/15277967" target="_blank">
+<!-- <a href="https://stackoverflow.com/users/15277967" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://www.instagram.com/priyansu.2000/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a> -->
