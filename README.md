@@ -15,9 +15,7 @@
 
   <div>
 
-| RoadMap.sh                                                   | LeetCode                                           |
-| ------------------------------------------------------ | --------------------------------------------- |
-| [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658aa52a54b5771051431f45?variant=dark&roadmaps=spring-boot%2Cjava%2Cbackend)](https://roadmap.sh) | <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="450" border-radius= "260px"/>
+<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="450" border-radius= "260px"/>
 
 </div>
 
