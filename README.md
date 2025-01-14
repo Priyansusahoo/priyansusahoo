@@ -15,7 +15,7 @@
 
   <div>
 
-<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="450" border-radius= "260px"/>
+<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="400" border-radius= "260px"/>
 
 </div>
 
