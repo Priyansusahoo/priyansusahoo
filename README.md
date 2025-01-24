@@ -38,7 +38,8 @@
 <a href="https://leetcode.com/priyansusahoo1/">
 <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
 </a>
-<!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
+
+[![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)<!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
 <!-- <a href="https://stackoverflow.com/users/15277967" target="_blank">
@@ -49,7 +50,6 @@
 </a> -->
 </div>
 </table>
-<br></br>
 <table>
 <div>
   <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="135"/> 
