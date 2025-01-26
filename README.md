@@ -5,11 +5,11 @@
 
   #### :books: Recent Blog Posts
   <!-- BLOGPOSTS:START -->
- - 🚀 [Discovering Java Reflection: A Practical Guide](https://priyansu1.hashnode.dev/discovering-java-reflection-a-practical-guide)
+ - 🚀 [Streamlined Ollama WebUI Setup: Automated Scripts, LLM Integration, and Desktop Shortcut Creation](https://priyansu1.hashnode.dev/streamlined-ollama-webui-setup-automated-scripts-llm-integration-and-desktop-shortcut-creation)
+ - 💯 [Discovering Java Reflection: A Practical Guide](https://priyansu1.hashnode.dev/discovering-java-reflection-a-practical-guide)
  - 💯 [Introduction To Agile](https://priyansu1.hashnode.dev/introduction-to-agile)
  - 💯 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)
- - 💯 [Fedora Linux SetUp](https://priyansu1.hashnode.dev/fedora-linux-setup)
- - 💫 [Load Balancing in 5 Min.](https://priyansu1.hashnode.dev/load-balancing-in-5-min)<!-- BLOGPOSTS:END -->
+ - 💫 [Fedora Linux SetUp](https://priyansu1.hashnode.dev/fedora-linux-setup)<!-- BLOGPOSTS:END -->
   
   </div>
 
