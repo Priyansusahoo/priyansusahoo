@@ -14,9 +14,9 @@
   </div>
 
   <div>
-
+<!--
 <div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="400" border-radius= "260px"/>
-
+-->
 </div>
 
 ### Connect with me 💬
@@ -38,8 +38,10 @@
 <a href="https://leetcode.com/priyansusahoo1/">
 <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
 </a>
-
-[![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)<!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
+<!--
+[![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)
+-->
+<!-- <a href="https://gitlab.com/Priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
 <!-- <a href="https://stackoverflow.com/users/15277967" target="_blank">
