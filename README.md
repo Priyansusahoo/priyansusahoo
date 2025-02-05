@@ -19,15 +19,15 @@
 -->
 </div>
 
-### Connect with me 💬
+### Connect 💬
 <a href="https://www.linkedin.com/in/priyansu1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;width: 100px; height: 23px;" />
 </a>
 <a href="https://twitter.com/Priyansu2000" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;width: 100px; height: 23px;" />
 </a>
 <a href="https://priyansu1.hashnode.dev/">
-<img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+<img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"style="margin-bottom: 5px;width: 100px; height: 23px;"/>
 </a>
 <!-- <a href="https://www.youtube.com/@priyansusahoo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -36,7 +36,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> -->
 <a href="https://leetcode.com/priyansusahoo1/">
-<img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+<img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge" style="margin-bottom: 5px;width: 100px; height: 23px;" />
 </a>
 <!--
 [![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)
@@ -54,6 +54,6 @@
 </table>
 <table>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="135"/> 
+  <img src="https://komarev.com/ghpvc/?username=Priyansusahoo&style=flat-square&color=blue" alt="" width="110"/> 
 </div>
 </table>
