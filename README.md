@@ -2,8 +2,6 @@
 
 - I'm Priyansu. Ex - Software Engineer specializing in Java and Spring Boot
 
-- OpenToWork
-
 <table>
   <div>
 
