@@ -1,5 +1,9 @@
-<!-- <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I'm Priyansu</h1> -->
-<!-- <h3>B. Tech in Computer Science and IT Graduate (2023 pass out).</h3> -->
+### Hi there 👋
+
+- I'm Priyansu. Ex - Software Engineer specializing in Java and Spring Boot
+
+- OpenToWork
+
 <table>
   <div>
 
