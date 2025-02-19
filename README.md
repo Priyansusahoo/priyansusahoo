@@ -13,12 +13,16 @@
   
   </div>
 
-  <div>
-<!--
-<div><img src="https://leetcard.jacoblin.cool/priyansusahoo1?border=0&radius=20" align="center" width="400" border-radius= "260px"/>
--->
+<div>
+
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 </div>
 
+<div>
+  
 ### Connect 💬
 
 <a href="https://linktr.ee/priyansu1" target="_blank">
@@ -26,11 +30,4 @@
 </a>
 
 </div>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
 </table>
