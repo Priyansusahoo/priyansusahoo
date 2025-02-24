@@ -30,6 +30,9 @@
 <a href="https://linktr.ee/priyansu1" target="_blank">
   <img src="https://img.shields.io/badge/linktr.ee-%23007A7A.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktr.ee" />
 </a>
+<a href="https://www.credly.com/users/priyansu-sahoo" target="_blank">
+  <img src="https://img.shields.io/badge/credly-orange.svg?&style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+</a>
 
 </div>
 </table>
