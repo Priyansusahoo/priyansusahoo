@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Priyansu. Ex - Software Engineer specializing in Java and Spring Boot
+- I'm Priyansu. Software Engineer specializing in Java and Spring Boot
 
 <table>
   <div>
