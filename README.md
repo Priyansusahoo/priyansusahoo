@@ -23,8 +23,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/Priyansusahoo/BlueComet/issues/1) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. ❗ Opened issue [#1](https://github.com/Priyansusahoo/BlueComet/issues/1) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+1. ❗ Opened issue [#2](https://github.com/Priyansusahoo/BlueComet/issues/2) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+2. 🔒 Closed issue [#1](https://github.com/Priyansusahoo/BlueComet/issues/1) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
 
 ---
