@@ -23,8 +23,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Priyansusahoo/BlueComet/pull/3) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. 💪 Opened PR [#3](https://github.com/Priyansusahoo/BlueComet/pull/3) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+1. 🔒 Closed issue [#2](https://github.com/Priyansusahoo/BlueComet/issues/2) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+2. 🎉 Merged PR [#3](https://github.com/Priyansusahoo/BlueComet/pull/3) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
 
 ---
