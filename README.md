@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-- I'm Priyansu. Software Engineer specializing in Java and Spring Boot
+### I'm Priyansu. Currently working on [Bluecomet](https://github.com/Priyansusahoo/BlueComet) project
+
+---
 
 <table>
   <div>
@@ -14,12 +16,10 @@
  - 💫 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)<!-- BLOGPOSTS:END -->
   
   </div>
-
 <div>
-
-
+  
 ---
-
+  
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -27,13 +27,6 @@
 2. 🔒 Closed issue [#14](https://github.com/Priyansusahoo/BlueComet/issues/14) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 
 
-
-
-
-
-<!--END_SECTION:activity-->
-
----
 
 
 
