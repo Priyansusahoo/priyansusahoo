@@ -34,11 +34,6 @@
 9. 🎉 Merged PR [#13](https://github.com/Priyansusahoo/BlueComet/pull/13) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 10. 💪 Opened PR [#13](https://github.com/Priyansusahoo/BlueComet/pull/13) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/Priyansusahoo/BlueComet/issues/16) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. 🔒 Closed issue [#14](https://github.com/Priyansusahoo/BlueComet/issues/14) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-
-
-
 
 
 </div>
