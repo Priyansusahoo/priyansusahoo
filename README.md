@@ -20,20 +20,10 @@
   
 ---
   
-### :zap: Recent Activity
+### <img src="png/new-pull-request.png" alt="pull request image" style="max-width: 30%; max-height: 30px; height: auto;"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Priyansusahoo/BlueComet/issues/16) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. 🎉 Merged PR [#19](https://github.com/Priyansusahoo/BlueComet/pull/19) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-3. 💪 Opened PR [#19](https://github.com/Priyansusahoo/BlueComet/pull/19) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-4. ❗ Opened issue [#18](https://github.com/Priyansusahoo/BlueComet/issues/18) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-5. 🎉 Merged PR [#17](https://github.com/Priyansusahoo/BlueComet/pull/17) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-6. 💪 Opened PR [#17](https://github.com/Priyansusahoo/BlueComet/pull/17) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-7. ❗ Opened issue [#14](https://github.com/Priyansusahoo/BlueComet/issues/14) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-8. 🔒 Closed issue [#6](https://github.com/Priyansusahoo/BlueComet/issues/6) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-9. 🎉 Merged PR [#13](https://github.com/Priyansusahoo/BlueComet/pull/13) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-10. 💪 Opened PR [#13](https://github.com/Priyansusahoo/BlueComet/pull/13) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-<!--END_SECTION:activity-->
+
 
 
 </div>
