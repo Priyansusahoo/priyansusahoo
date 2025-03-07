@@ -20,7 +20,7 @@
   
 ---
   
-#### <img src="png/new-pull-request.png" alt="pull request image" style="max-width: 30%; max-height: 30px; height: 30px;"> Recent Activity
+#### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#16](https://github.com/Priyansusahoo/BlueComet/issues/16) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
