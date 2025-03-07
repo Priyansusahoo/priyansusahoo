@@ -9,11 +9,11 @@
 
   #### :books: Recent Blog Posts
   <!-- BLOGPOSTS:START -->
- - 🚀 [Docker Internals: Isolation, Resource Control, and Kernel Mechanics](https://priyansu1.hashnode.dev/docker-internals-isolation-resource-control-and-kernel-mechanics)
- - 💯 [Streamlined Ollama WebUI Setup: Automated Scripts, LLM Integration, and Desktop Shortcut Creation](https://priyansu1.hashnode.dev/streamlined-ollama-webui-setup-automated-scripts-llm-integration-and-desktop-shortcut-creation)
- - 💯 [Discovering Java Reflection: A Practical Guide](https://priyansu1.hashnode.dev/discovering-java-reflection-a-practical-guide)
- - 💯 [Introduction To Agile](https://priyansu1.hashnode.dev/introduction-to-agile)
- - 💫 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)<!-- BLOGPOSTS:END -->
+ - 📝 [Docker Internals: Isolation, Resource Control, and Kernel Mechanics](https://priyansu1.hashnode.dev/docker-internals-isolation-resource-control-and-kernel-mechanics)
+ - 📝 [Streamlined Ollama WebUI Setup: Automated Scripts, LLM Integration, and Desktop Shortcut Creation](https://priyansu1.hashnode.dev/streamlined-ollama-webui-setup-automated-scripts-llm-integration-and-desktop-shortcut-creation)
+ - 📝 [Discovering Java Reflection: A Practical Guide](https://priyansu1.hashnode.dev/discovering-java-reflection-a-practical-guide)
+ - 📝 [Introduction To Agile](https://priyansu1.hashnode.dev/introduction-to-agile)
+ - 📝 [AWS Lambda: Getting started with Serverless Computing](https://priyansu1.hashnode.dev/aws-lambda-getting-started-with-serverless-computing)<!-- BLOGPOSTS:END -->
   
   </div>
 <div>
