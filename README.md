@@ -20,7 +20,7 @@
   
 ---
   
-### <img src="png/new-pull-request.png" alt="pull request image" style="max-width: 30%; max-height: 30px; height: auto;"> Recent Activity
+### <img src="png/new-pull-request.png" alt="pull request image" style="max-width: 30%; max-height: 30px; height: 30px;"> Activity
 
 <!--START_SECTION:activity-->
 
