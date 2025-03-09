@@ -1,9 +1,3 @@
-## Hi there 👋
-
-### I'm Priyansu. Currently working on [Bluecomet](https://github.com/Priyansusahoo/BlueComet) project
-
----
-
 <table>
   <div>
 
