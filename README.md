@@ -17,12 +17,12 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/Priyansusahoo/BlueComet/issues/22) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. 🔒 Closed issue [#18](https://github.com/Priyansusahoo/BlueComet/issues/18) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-3. 🎉 Merged PR [#21](https://github.com/Priyansusahoo/BlueComet/pull/21) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-4. 💪 Opened PR [#21](https://github.com/Priyansusahoo/BlueComet/pull/21) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-5. ❗ Opened issue [#20](https://github.com/Priyansusahoo/BlueComet/issues/20) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-6. 🔒 Closed issue [#16](https://github.com/Priyansusahoo/BlueComet/issues/16) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+1. 💪 Opened PR [#23](https://github.com/Priyansusahoo/BlueComet/pull/23) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+2. ❗ Opened issue [#22](https://github.com/Priyansusahoo/BlueComet/issues/22) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+3. 🔒 Closed issue [#18](https://github.com/Priyansusahoo/BlueComet/issues/18) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+4. 🎉 Merged PR [#21](https://github.com/Priyansusahoo/BlueComet/pull/21) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+5. 💪 Opened PR [#21](https://github.com/Priyansusahoo/BlueComet/pull/21) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+6. ❗ Opened issue [#20](https://github.com/Priyansusahoo/BlueComet/issues/20) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
 
 
