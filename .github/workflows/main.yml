@@ -1,8 +1,8 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 24 hours at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,28 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      - name: Fetch RSS Feed with Retry
-        id: fetch_rss
-        run: |
-          max_attempts=5
-          attempt=0
-          until [ $attempt -ge $max_attempts ]
-          do
-            response=$(curl --write-out "%{http_code}" --silent --output /dev/null "https://priyansu1.hashnode.dev/rss.xml")
-            if [ $response -eq 200 ]; then
-              echo "Successfully fetched the RSS feed."
-              break
-            fi
-            echo "Attempt $((attempt + 1)) failed: HTTP response code $response. Retrying in 10 seconds..."
-            attempt=$((attempt + 1))
-            sleep 10
-          done
-          if [ $attempt -eq $max_attempts ]; then
-            echo "Failed to fetch the RSS feed after $max_attempts attempts."
-            exit 1
-          fi
-
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
