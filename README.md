@@ -17,12 +17,12 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#277](https://github.com/gautamkrishnar/blog-post-workflow/issues/277#issuecomment-2737677679) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-2. 🎉 Merged PR [#25](https://github.com/Priyansusahoo/BlueComet/pull/25) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-3. 🎉 Merged PR [#24](https://github.com/Priyansusahoo/BlueComet/pull/24) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-4. 💪 Opened PR [#24](https://github.com/Priyansusahoo/BlueComet/pull/24) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-5. 🎉 Merged PR [#23](https://github.com/Priyansusahoo/BlueComet/pull/23) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-6. 💪 Opened PR [#23](https://github.com/Priyansusahoo/BlueComet/pull/23) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+1. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+2. 🗣 Commented on [#28](https://github.com/Priyansusahoo/BlueComet/pull/28#issuecomment-2743536288) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+3. 💪 Opened PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+4. 🗣 Commented on [#277](https://github.com/gautamkrishnar/blog-post-workflow/issues/277#issuecomment-2737677679) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+5. 🎉 Merged PR [#25](https://github.com/Priyansusahoo/BlueComet/pull/25) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+6. 🎉 Merged PR [#24](https://github.com/Priyansusahoo/BlueComet/pull/24) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
 
 
