@@ -17,12 +17,12 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-2. 🗣 Commented on [#28](https://github.com/Priyansusahoo/BlueComet/pull/28#issuecomment-2743536288) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-3. 💪 Opened PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-4. 🗣 Commented on [#277](https://github.com/gautamkrishnar/blog-post-workflow/issues/277#issuecomment-2737677679) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-5. 🎉 Merged PR [#25](https://github.com/Priyansusahoo/BlueComet/pull/25) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
-6. 🎉 Merged PR [#24](https://github.com/Priyansusahoo/BlueComet/pull/24) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+1. 🔒 Closed issue [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
+2. 🗣 Commented on [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1#issuecomment-2745377419) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
+3. ❗ Opened issue [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
+4. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+5. 🗣 Commented on [#28](https://github.com/Priyansusahoo/BlueComet/pull/28#issuecomment-2743536288) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
+6. 💪 Opened PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 <!--END_SECTION:activity-->
 
 
