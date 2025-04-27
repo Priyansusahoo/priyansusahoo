@@ -30,7 +30,8 @@
 </div>
 
 <div>
-  
+
+<!--
 #### Connect 💬
 
 <a href="https://linktr.ee/priyansu1" target="_blank">
@@ -39,6 +40,7 @@
 <a href="https://www.credly.com/users/priyansu-sahoo" target="_blank">
   <img src="https://img.shields.io/badge/credly-orange.svg?&style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
 </a>
+-->
 
 </div>
 </table>
