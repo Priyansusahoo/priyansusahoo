@@ -17,7 +17,7 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
+1. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP/releases/tag/version-1.0) in [Priyansusahoo/Login_Register_SpringMCV_JSP](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP)
 2. 🗣 Commented on [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1#issuecomment-2745377419) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
 3. ❗ Opened issue [#1](https://github.com/Priyansusahoo/finance-tracker-backend/issues/1) in [Priyansusahoo/finance-tracker-backend](https://github.com/Priyansusahoo/finance-tracker-backend)
 4. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
