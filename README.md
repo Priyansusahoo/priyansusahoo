@@ -17,7 +17,7 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/Docker-Compose-ELK-Stack-template/releases/tag/V1.0) in [Priyansusahoo/Docker-Compose-ELK-Stack-template](https://github.com/Priyansusahoo/Docker-Compose-ELK-Stack-template)
+1. 🗣 Commented on [#1](https://github.com/Priyansusahoo/eCommerce/pull/1#issuecomment-3836774902) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
 2. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/BULK-EMAIL-SENDER/releases/tag/V1.0) in [Priyansusahoo/BULK-EMAIL-SENDER](https://github.com/Priyansusahoo/BULK-EMAIL-SENDER)
 3. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP/releases/tag/version-1.0) in [Priyansusahoo/Login_Register_SpringMCV_JSP](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP)
 4. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
