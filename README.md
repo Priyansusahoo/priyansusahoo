@@ -17,9 +17,9 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Priyansusahoo/eCommerce/pull/1#issuecomment-3836774902) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
-2. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/BULK-EMAIL-SENDER/releases/tag/V1.0) in [Priyansusahoo/BULK-EMAIL-SENDER](https://github.com/Priyansusahoo/BULK-EMAIL-SENDER)
-3. 🚀 Published release [V1.0](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP/releases/tag/version-1.0) in [Priyansusahoo/Login_Register_SpringMCV_JSP](https://github.com/Priyansusahoo/Login_Register_SpringMCV_JSP)
+1. ℹ️ Labeled PR [#1](https://github.com/Priyansusahoo/eCommerce/pull/1) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
+2. ℹ️ Assigned PR [#1](https://github.com/Priyansusahoo/eCommerce/pull/1) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
+3. 🗣 Commented on [#1](https://github.com/Priyansusahoo/eCommerce/pull/1#issuecomment-3836774902) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
 4. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 5. 🗣 Commented on [#28](https://github.com/Priyansusahoo/BlueComet/pull/28#issuecomment-2743536288) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 6. 💪 Opened PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
