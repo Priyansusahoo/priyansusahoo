@@ -17,9 +17,9 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/Priyansusahoo/eCommerce/pull/1) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
-2. ℹ️ Assigned PR [#1](https://github.com/Priyansusahoo/eCommerce/pull/1) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
-3. 🗣 Commented on [#1](https://github.com/Priyansusahoo/eCommerce/pull/1#issuecomment-3836774902) in [Priyansusahoo/eCommerce](https://github.com/Priyansusahoo/eCommerce)
+1. ℹ️ Labeled issue [#1](https://github.com/Priyansusahoo/security_core/issues/1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+2. ℹ️ Assigned issue [#1](https://github.com/Priyansusahoo/security_core/issues/1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+3. ❗ Opened issue [#1](https://github.com/Priyansusahoo/security_core/issues/1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 4. 🎉 Merged PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 5. 🗣 Commented on [#28](https://github.com/Priyansusahoo/BlueComet/pull/28#issuecomment-2743536288) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
 6. 💪 Opened PR [#28](https://github.com/Priyansusahoo/BlueComet/pull/28) in [Priyansusahoo/BlueComet](https://github.com/Priyansusahoo/BlueComet)
