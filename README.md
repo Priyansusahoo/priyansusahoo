@@ -17,11 +17,11 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Priyansusahoo/security_core/pull/3#issuecomment-5845661194) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
-2. 🗣 Commented on [#3](https://github.com/Priyansusahoo/security_core/pull/3#issuecomment-5845646422) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
-3. 💪 Opened PR [#3](https://github.com/Priyansusahoo/security_core/pull/3) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
-4. 🚀 Published release [base - init](https://github.com/Priyansusahoo/security_core/releases/tag/security-core-1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
-5. ℹ️ Labeled issue [#1](https://github.com/Priyansusahoo/security_core/issues/1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+1. 🎉 Merged PR [#3](https://github.com/Priyansusahoo/security_core/pull/3) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+2. ℹ️ Assigned PR [#3](https://github.com/Priyansusahoo/security_core/pull/3) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+3. 🗣 Commented on [#3](https://github.com/Priyansusahoo/security_core/pull/3#issuecomment-5845661194) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+4. 🗣 Commented on [#3](https://github.com/Priyansusahoo/security_core/pull/3#issuecomment-5845646422) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+5. 💪 Opened PR [#3](https://github.com/Priyansusahoo/security_core/pull/3) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 6. ℹ️ Assigned issue [#1](https://github.com/Priyansusahoo/security_core/issues/1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 <!--END_SECTION:activity-->
 
