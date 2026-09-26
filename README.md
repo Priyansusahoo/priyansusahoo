@@ -17,7 +17,7 @@
 #### :thread: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Priyansusahoo/security_core/pull/2) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
+1. 💪 Opened PR [#3](https://github.com/Priyansusahoo/security_core/pull/3) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 2. 💪 Opened PR [#2](https://github.com/Priyansusahoo/security_core/pull/2) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 3. ℹ️ Assigned PR [#2](https://github.com/Priyansusahoo/security_core/pull/2) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
 4. 🚀 Published release [base - init](https://github.com/Priyansusahoo/security_core/releases/tag/security-core-1) in [Priyansusahoo/security_core](https://github.com/Priyansusahoo/security_core)
